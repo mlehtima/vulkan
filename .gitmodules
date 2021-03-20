@@ -4,3 +4,6 @@
 [submodule "vulkan-loader"]
 	path = vulkan-loader
 	url = https://github.com/KhronosGroup/Vulkan-Loader.git
+[submodule "vulkan-tools"]
+	path = vulkan-tools
+	url = https://github.com/KhronosGroup/Vulkan-Tools.git
